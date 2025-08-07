@@ -1,3 +1,17 @@
 # Hey, I am Osbaldo Aguilar,
-Full-Stack Developer with enterprise experience in Angular and a passion for building modern web applications with React, React Native, and Express.js. I specialize in creating custom web solutions for small businesses using platforms like WordPress and Shopify.
+Software Engineer | Web & Mobile
+Building robust applications and custom websites.
 
+🔭 Currently: Developing an internal dictionary application and building freelance websites for small businesses.
+
+🏢 Experience: Proven ability to deliver in an enterprise environment using Angular.
+
+💻 My Tech Stack:
+
+Frontend: Angular, React, HTML5, CSS3
+
+Backend & Database: Express.js, Node.js, SQL
+
+Mobile: React Native
+
+CMS & E-commerce: WordPress, Shopify
