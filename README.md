@@ -1,4 +1,3 @@
-# Hey, I am Osbaldo Aguilar a Full stack developer with various years of experience,
-I am currently working on personal sites, and freelance sites for small businesses
-I have worked with React, React Native, Express, SQL, HTML, CSS, Wordprss and Shopify
+# Hey, I am Osbaldo Aguilar,
+Full-Stack Developer with enterprise experience in Angular and a passion for building modern web applications with React, React Native, and Express.js. I specialize in creating custom web solutions for small businesses using platforms like WordPress and Shopify.
 
